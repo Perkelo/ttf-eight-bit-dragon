@@ -1,5 +1,4 @@
-# Maintainer: kaixili <lkx810@gmail.com>
-# Maintainer: jecxjo  <	jeff@commentedcode.org>
+# Maintainer: Perkelo <alessandro [dot] scala [eight] [at] gmail [dot] com>
 
 pkgname=ttf-eight-bit-dragon
 pkgver=1.0
